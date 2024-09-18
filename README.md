@@ -13,7 +13,7 @@ By Yuntao Shou, Tao Meng, Wei Ai, Sihan Yang, Keqin Li. [[paper link]](https://w
 This is an official implementation of 'Conversational emotion recognition studies based on graph convolutional neural networks and a dependent syntactic analysis' :fire:. Any problems, please contact shouyuntao@stu.xjtu.edu.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository :heart:.
 
 <div  align="center"> 
-  <img src="https://github.com/yuntaoshou/DSAGCN/blob/main/1.png" width=100% />
+  <img src="https://github.com/yuntaoshou/DSAGCN/blob/main/fig/DSAGCN.png" width=100% />
 </div>
 
 
